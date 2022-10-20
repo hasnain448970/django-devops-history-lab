@@ -1,2 +1,3 @@
 0001 | 2022-10-15 | refactor | update sample maintenance note
 0002 | 2022-10-20 | security | add sample security checklist
+0003 | 2022-10-20 | docker | add sample Docker deployment note
