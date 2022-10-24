@@ -3,3 +3,4 @@
 0003 | 2022-10-20 | docker | add sample Docker deployment note
 0004 | 2022-10-23 | nginx | add sample Nginx configuration note
 0005 | 2022-10-23 | docker | add sample Docker deployment note
+0006 | 2022-10-24 | database | add sample database optimization note
