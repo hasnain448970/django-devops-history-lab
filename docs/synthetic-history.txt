@@ -10,3 +10,4 @@
 0010 | 2022-10-26 | docker | add sample Docker deployment note
 0011 | 2022-10-27 | refactor | update sample maintenance note
 0012 | 2022-10-27 | release | add sample release checklist
+0013 | 2022-10-28 | database | add sample database optimization note
