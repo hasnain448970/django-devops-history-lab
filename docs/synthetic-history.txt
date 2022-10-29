@@ -11,3 +11,4 @@
 0011 | 2022-10-27 | refactor | update sample maintenance note
 0012 | 2022-10-27 | release | add sample release checklist
 0013 | 2022-10-28 | database | add sample database optimization note
+0014 | 2022-10-29 | security | add sample security checklist
