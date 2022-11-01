@@ -14,3 +14,4 @@
 0014 | 2022-10-29 | security | add sample security checklist
 0015 | 2022-10-31 | security | add sample security checklist
 0016 | 2022-10-31 | api | add sample API design note
+0017 | 2022-11-01 | docker | add sample Docker deployment note
