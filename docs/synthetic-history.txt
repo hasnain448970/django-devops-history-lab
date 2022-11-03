@@ -16,3 +16,4 @@
 0016 | 2022-10-31 | api | add sample API design note
 0017 | 2022-11-01 | docker | add sample Docker deployment note
 0018 | 2022-11-01 | nginx | add sample Nginx configuration note
+0019 | 2022-11-03 | django | add sample Django configuration note
