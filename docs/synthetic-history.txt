@@ -17,3 +17,4 @@
 0017 | 2022-11-01 | docker | add sample Docker deployment note
 0018 | 2022-11-01 | nginx | add sample Nginx configuration note
 0019 | 2022-11-03 | django | add sample Django configuration note
+0020 | 2022-11-05 | api | add sample API design note
