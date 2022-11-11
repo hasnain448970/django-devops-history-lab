@@ -21,3 +21,4 @@
 0021 | 2022-11-06 | django | add sample Django configuration note
 0022 | 2022-11-10 | database | add sample database optimization note
 0023 | 2022-11-11 | api | add sample API design note
+0024 | 2022-11-11 | tests | add sample testing checklist
