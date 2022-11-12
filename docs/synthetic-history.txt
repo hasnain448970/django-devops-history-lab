@@ -23,3 +23,4 @@
 0023 | 2022-11-11 | api | add sample API design note
 0024 | 2022-11-11 | tests | add sample testing checklist
 0025 | 2022-11-11 | refactor | update sample maintenance note
+0026 | 2022-11-12 | release | add sample release checklist
