@@ -25,3 +25,4 @@
 0025 | 2022-11-11 | refactor | update sample maintenance note
 0026 | 2022-11-12 | release | add sample release checklist
 0027 | 2022-11-12 | ci | add sample CI pipeline note
+0028 | 2022-11-13 | database | add sample database optimization note
