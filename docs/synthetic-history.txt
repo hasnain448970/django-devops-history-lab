@@ -28,3 +28,4 @@
 0028 | 2022-11-13 | database | add sample database optimization note
 0029 | 2022-11-13 | tests | add sample testing checklist
 0030 | 2022-11-14 | tests | add sample testing checklist
+0031 | 2022-11-16 | docker | add sample Docker deployment note
