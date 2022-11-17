@@ -29,3 +29,4 @@
 0029 | 2022-11-13 | tests | add sample testing checklist
 0030 | 2022-11-14 | tests | add sample testing checklist
 0031 | 2022-11-16 | docker | add sample Docker deployment note
+0032 | 2022-11-17 | security | add sample security checklist
