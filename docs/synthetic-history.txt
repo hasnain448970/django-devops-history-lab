@@ -32,3 +32,4 @@
 0032 | 2022-11-17 | security | add sample security checklist
 0033 | 2022-11-19 | tests | add sample testing checklist
 0034 | 2022-11-19 | refactor | update sample maintenance note
+0035 | 2022-11-20 | api | add sample API design note
