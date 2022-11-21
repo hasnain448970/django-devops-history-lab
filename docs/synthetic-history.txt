@@ -34,3 +34,4 @@
 0034 | 2022-11-19 | refactor | update sample maintenance note
 0035 | 2022-11-20 | api | add sample API design note
 0036 | 2022-11-21 | security | add sample security checklist
+0037 | 2022-11-21 | nginx | add sample Nginx configuration note
