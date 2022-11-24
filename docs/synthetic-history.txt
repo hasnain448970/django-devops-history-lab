@@ -37,3 +37,4 @@
 0037 | 2022-11-21 | nginx | add sample Nginx configuration note
 0038 | 2022-11-23 | security | add sample security checklist
 0039 | 2022-11-23 | api | add sample API design note
+0040 | 2022-11-24 | nginx | add sample Nginx configuration note
