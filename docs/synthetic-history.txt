@@ -39,3 +39,4 @@
 0039 | 2022-11-23 | api | add sample API design note
 0040 | 2022-11-24 | nginx | add sample Nginx configuration note
 0041 | 2022-11-25 | tests | add sample testing checklist
+0042 | 2022-11-26 | database | add sample database optimization note
