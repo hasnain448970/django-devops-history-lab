@@ -43,3 +43,4 @@
 0043 | 2022-11-27 | release | add sample release checklist
 0044 | 2022-11-27 | tests | add sample testing checklist
 0045 | 2022-12-02 | api | add sample API design note
+0046 | 2022-12-06 | docker | add sample Docker deployment note
