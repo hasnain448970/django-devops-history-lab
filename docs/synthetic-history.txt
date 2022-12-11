@@ -45,3 +45,4 @@
 0045 | 2022-12-02 | api | add sample API design note
 0046 | 2022-12-06 | docker | add sample Docker deployment note
 0047 | 2022-12-08 | docker | add sample Docker deployment note
+0048 | 2022-12-11 | nginx | add sample Nginx configuration note
