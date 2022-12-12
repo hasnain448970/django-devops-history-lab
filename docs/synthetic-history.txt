@@ -46,3 +46,4 @@
 0046 | 2022-12-06 | docker | add sample Docker deployment note
 0047 | 2022-12-08 | docker | add sample Docker deployment note
 0048 | 2022-12-11 | nginx | add sample Nginx configuration note
+0049 | 2022-12-12 | docker | add sample Docker deployment note
