@@ -51,3 +51,4 @@
 0051 | 2022-12-19 | docker | add sample Docker deployment note
 0052 | 2022-12-19 | security | add sample security checklist
 0053 | 2022-12-19 | database | add sample database optimization note
+0054 | 2022-12-19 | release | add sample release checklist
