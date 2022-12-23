@@ -56,3 +56,4 @@
 0056 | 2022-12-20 | django | add sample Django configuration note
 0057 | 2022-12-20 | nginx | add sample Nginx configuration note
 0058 | 2022-12-21 | nginx | add sample Nginx configuration note
+0059 | 2022-12-23 | tests | add sample testing checklist
