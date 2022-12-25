@@ -58,3 +58,4 @@
 0058 | 2022-12-21 | nginx | add sample Nginx configuration note
 0059 | 2022-12-23 | tests | add sample testing checklist
 0060 | 2022-12-24 | ci | add sample CI pipeline note
+0061 | 2022-12-25 | refactor | update sample maintenance note
