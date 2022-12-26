@@ -60,3 +60,4 @@
 0060 | 2022-12-24 | ci | add sample CI pipeline note
 0061 | 2022-12-25 | refactor | update sample maintenance note
 0062 | 2022-12-26 | release | add sample release checklist
+0063 | 2022-12-26 | docker | add sample Docker deployment note
