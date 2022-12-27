@@ -61,3 +61,4 @@
 0061 | 2022-12-25 | refactor | update sample maintenance note
 0062 | 2022-12-26 | release | add sample release checklist
 0063 | 2022-12-26 | docker | add sample Docker deployment note
+0064 | 2022-12-27 | django | add sample Django configuration note
