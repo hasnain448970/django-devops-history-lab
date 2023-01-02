@@ -66,3 +66,4 @@
 0066 | 2022-12-30 | django | add sample Django configuration note
 0067 | 2022-12-31 | refactor | update sample maintenance note
 0068 | 2023-01-01 | nginx | add sample Nginx configuration note
+0069 | 2023-01-02 | release | add sample release checklist
