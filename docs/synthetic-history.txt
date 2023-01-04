@@ -69,3 +69,4 @@
 0069 | 2023-01-02 | release | add sample release checklist
 0070 | 2023-01-02 | django | add sample Django configuration note
 0071 | 2023-01-03 | ci | add sample CI pipeline note
+0072 | 2023-01-04 | nginx | add sample Nginx configuration note
