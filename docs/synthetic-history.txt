@@ -82,3 +82,4 @@
 0082 | 2023-01-11 | tests | add sample testing checklist
 0083 | 2023-01-13 | tests | add sample testing checklist
 0084 | 2023-01-14 | refactor | update sample maintenance note
+0085 | 2023-01-14 | release | add sample release checklist
