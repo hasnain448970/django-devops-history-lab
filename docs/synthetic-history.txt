@@ -81,3 +81,4 @@
 0081 | 2023-01-11 | api | add sample API design note
 0082 | 2023-01-11 | tests | add sample testing checklist
 0083 | 2023-01-13 | tests | add sample testing checklist
+0084 | 2023-01-14 | refactor | update sample maintenance note
