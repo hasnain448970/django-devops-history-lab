@@ -93,3 +93,4 @@
 0093 | 2023-01-19 | api | add sample API design note
 0094 | 2023-01-19 | release | add sample release checklist
 0095 | 2023-01-22 | django | add sample Django configuration note
+0096 | 2023-01-22 | security | add sample security checklist
