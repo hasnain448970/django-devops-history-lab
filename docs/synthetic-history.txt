@@ -96,3 +96,4 @@
 0096 | 2023-01-22 | security | add sample security checklist
 0097 | 2023-01-22 | security | add sample security checklist
 0098 | 2023-01-23 | database | add sample database optimization note
+0099 | 2023-01-24 | database | add sample database optimization note
