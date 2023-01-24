@@ -98,3 +98,4 @@
 0098 | 2023-01-23 | database | add sample database optimization note
 0099 | 2023-01-24 | database | add sample database optimization note
 0100 | 2023-01-24 | django | add sample Django configuration note
+0101 | 2023-01-24 | security | add sample security checklist
