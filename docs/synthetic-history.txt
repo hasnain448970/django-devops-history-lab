@@ -105,3 +105,4 @@
 0105 | 2023-01-25 | ci | add sample CI pipeline note
 0106 | 2023-01-26 | security | add sample security checklist
 0107 | 2023-01-27 | release | add sample release checklist
+0108 | 2023-01-27 | database | add sample database optimization note
