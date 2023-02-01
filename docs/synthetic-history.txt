@@ -109,3 +109,4 @@
 0109 | 2023-01-27 | ci | add sample CI pipeline note
 0110 | 2023-01-27 | refactor | update sample maintenance note
 0111 | 2023-01-30 | tests | add sample testing checklist
+0112 | 2023-02-01 | security | add sample security checklist
