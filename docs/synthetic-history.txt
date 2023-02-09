@@ -119,3 +119,4 @@
 0119 | 2023-02-05 | security | add sample security checklist
 0120 | 2023-02-05 | security | add sample security checklist
 0121 | 2023-02-08 | django | add sample Django configuration note
+0122 | 2023-02-09 | nginx | add sample Nginx configuration note
