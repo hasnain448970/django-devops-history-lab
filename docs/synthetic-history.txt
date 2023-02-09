@@ -122,3 +122,4 @@
 0122 | 2023-02-09 | nginx | add sample Nginx configuration note
 0123 | 2023-02-09 | django | add sample Django configuration note
 0124 | 2023-02-09 | security | add sample security checklist
+0125 | 2023-02-09 | release | add sample release checklist
