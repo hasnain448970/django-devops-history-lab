@@ -128,3 +128,4 @@
 0128 | 2023-02-15 | django | add sample Django configuration note
 0129 | 2023-02-15 | django | add sample Django configuration note
 0130 | 2023-02-16 | django | add sample Django configuration note
+0131 | 2023-02-17 | release | add sample release checklist
