@@ -132,3 +132,4 @@
 0132 | 2023-02-18 | django | add sample Django configuration note
 0133 | 2023-02-20 | release | add sample release checklist
 0134 | 2023-02-20 | refactor | update sample maintenance note
+0135 | 2023-02-20 | security | add sample security checklist
