@@ -135,3 +135,4 @@
 0135 | 2023-02-20 | security | add sample security checklist
 0136 | 2023-02-23 | database | add sample database optimization note
 0137 | 2023-02-23 | ci | add sample CI pipeline note
+0138 | 2023-02-23 | django | add sample Django configuration note
