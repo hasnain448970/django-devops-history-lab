@@ -133,3 +133,4 @@
 0133 | 2023-02-20 | release | add sample release checklist
 0134 | 2023-02-20 | refactor | update sample maintenance note
 0135 | 2023-02-20 | security | add sample security checklist
+0136 | 2023-02-23 | database | add sample database optimization note
