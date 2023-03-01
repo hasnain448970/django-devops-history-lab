@@ -137,3 +137,4 @@
 0137 | 2023-02-23 | ci | add sample CI pipeline note
 0138 | 2023-02-23 | django | add sample Django configuration note
 0139 | 2023-02-27 | refactor | update sample maintenance note
+0140 | 2023-03-01 | release | add sample release checklist
