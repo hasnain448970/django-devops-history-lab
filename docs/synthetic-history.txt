@@ -143,3 +143,4 @@
 0143 | 2023-03-04 | api | add sample API design note
 0144 | 2023-03-04 | refactor | update sample maintenance note
 0145 | 2023-03-06 | ci | add sample CI pipeline note
+0146 | 2023-03-06 | ci | add sample CI pipeline note
