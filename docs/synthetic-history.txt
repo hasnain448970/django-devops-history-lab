@@ -144,3 +144,4 @@
 0144 | 2023-03-04 | refactor | update sample maintenance note
 0145 | 2023-03-06 | ci | add sample CI pipeline note
 0146 | 2023-03-06 | ci | add sample CI pipeline note
+0147 | 2023-03-09 | database | add sample database optimization note
