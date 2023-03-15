@@ -149,3 +149,4 @@
 0149 | 2023-03-10 | refactor | update sample maintenance note
 0150 | 2023-03-12 | security | add sample security checklist
 0151 | 2023-03-14 | api | add sample API design note
+0152 | 2023-03-15 | docker | add sample Docker deployment note
