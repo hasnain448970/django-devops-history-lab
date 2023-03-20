@@ -157,3 +157,4 @@
 0157 | 2023-03-18 | django | add sample Django configuration note
 0158 | 2023-03-18 | release | add sample release checklist
 0159 | 2023-03-20 | nginx | add sample Nginx configuration note
+0160 | 2023-03-20 | database | add sample database optimization note
