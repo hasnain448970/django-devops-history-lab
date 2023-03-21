@@ -159,3 +159,4 @@
 0159 | 2023-03-20 | nginx | add sample Nginx configuration note
 0160 | 2023-03-20 | database | add sample database optimization note
 0161 | 2023-03-21 | ci | add sample CI pipeline note
+0162 | 2023-03-21 | tests | add sample testing checklist
