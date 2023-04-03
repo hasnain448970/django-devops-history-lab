@@ -169,3 +169,4 @@
 0169 | 2023-04-01 | security | add sample security checklist
 0170 | 2023-04-02 | django | add sample Django configuration note
 0171 | 2023-04-03 | database | add sample database optimization note
+0172 | 2023-04-03 | ci | add sample CI pipeline note
