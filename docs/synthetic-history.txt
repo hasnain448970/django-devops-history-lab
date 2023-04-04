@@ -171,3 +171,4 @@
 0171 | 2023-04-03 | database | add sample database optimization note
 0172 | 2023-04-03 | ci | add sample CI pipeline note
 0173 | 2023-04-03 | tests | add sample testing checklist
+0174 | 2023-04-04 | database | add sample database optimization note
