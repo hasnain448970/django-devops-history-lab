@@ -174,3 +174,4 @@
 0174 | 2023-04-04 | database | add sample database optimization note
 0175 | 2023-04-05 | tests | add sample testing checklist
 0176 | 2023-04-08 | security | add sample security checklist
+0177 | 2023-04-09 | django | add sample Django configuration note
