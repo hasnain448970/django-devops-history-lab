@@ -176,3 +176,4 @@
 0176 | 2023-04-08 | security | add sample security checklist
 0177 | 2023-04-09 | django | add sample Django configuration note
 0178 | 2023-04-10 | tests | add sample testing checklist
+0179 | 2023-04-10 | django | add sample Django configuration note
