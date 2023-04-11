@@ -180,3 +180,4 @@
 0180 | 2023-04-11 | database | add sample database optimization note
 0181 | 2023-04-11 | security | add sample security checklist
 0182 | 2023-04-11 | database | add sample database optimization note
+0183 | 2023-04-11 | ci | add sample CI pipeline note
