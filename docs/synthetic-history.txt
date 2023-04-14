@@ -183,3 +183,4 @@
 0183 | 2023-04-11 | ci | add sample CI pipeline note
 0184 | 2023-04-11 | tests | add sample testing checklist
 0185 | 2023-04-12 | database | add sample database optimization note
+0186 | 2023-04-14 | database | add sample database optimization note
