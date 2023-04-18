@@ -185,3 +185,4 @@
 0185 | 2023-04-12 | database | add sample database optimization note
 0186 | 2023-04-14 | database | add sample database optimization note
 0187 | 2023-04-17 | nginx | add sample Nginx configuration note
+0188 | 2023-04-18 | nginx | add sample Nginx configuration note
