@@ -187,3 +187,4 @@
 0187 | 2023-04-17 | nginx | add sample Nginx configuration note
 0188 | 2023-04-18 | nginx | add sample Nginx configuration note
 0189 | 2023-04-19 | nginx | add sample Nginx configuration note
+0190 | 2023-04-20 | api | add sample API design note
