@@ -189,3 +189,4 @@
 0189 | 2023-04-19 | nginx | add sample Nginx configuration note
 0190 | 2023-04-20 | api | add sample API design note
 0191 | 2023-04-20 | refactor | update sample maintenance note
+0192 | 2023-04-22 | database | add sample database optimization note
