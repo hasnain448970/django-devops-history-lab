@@ -191,3 +191,4 @@
 0191 | 2023-04-20 | refactor | update sample maintenance note
 0192 | 2023-04-22 | database | add sample database optimization note
 0193 | 2023-04-22 | database | add sample database optimization note
+0194 | 2023-04-22 | release | add sample release checklist
