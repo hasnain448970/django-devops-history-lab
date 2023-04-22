@@ -192,3 +192,4 @@
 0192 | 2023-04-22 | database | add sample database optimization note
 0193 | 2023-04-22 | database | add sample database optimization note
 0194 | 2023-04-22 | release | add sample release checklist
+0195 | 2023-04-22 | api | add sample API design note
