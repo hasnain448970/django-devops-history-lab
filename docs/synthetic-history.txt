@@ -195,3 +195,4 @@
 0195 | 2023-04-22 | api | add sample API design note
 0196 | 2023-04-23 | docker | add sample Docker deployment note
 0197 | 2023-04-25 | django | add sample Django configuration note
+0198 | 2023-04-25 | api | add sample API design note
