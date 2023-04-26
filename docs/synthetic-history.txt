@@ -198,3 +198,4 @@
 0198 | 2023-04-25 | api | add sample API design note
 0199 | 2023-04-25 | release | add sample release checklist
 0200 | 2023-04-25 | django | add sample Django configuration note
+0201 | 2023-04-26 | django | add sample Django configuration note
