@@ -200,3 +200,4 @@
 0200 | 2023-04-25 | django | add sample Django configuration note
 0201 | 2023-04-26 | django | add sample Django configuration note
 0202 | 2023-04-27 | api | add sample API design note
+0203 | 2023-04-27 | tests | add sample testing checklist
