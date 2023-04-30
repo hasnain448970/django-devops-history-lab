@@ -202,3 +202,4 @@
 0202 | 2023-04-27 | api | add sample API design note
 0203 | 2023-04-27 | tests | add sample testing checklist
 0204 | 2023-04-29 | database | add sample database optimization note
+0205 | 2023-04-30 | django | add sample Django configuration note
