@@ -207,3 +207,4 @@
 0207 | 2023-04-30 | database | add sample database optimization note
 0208 | 2023-05-01 | api | add sample API design note
 0209 | 2023-05-02 | security | add sample security checklist
+0210 | 2023-05-05 | nginx | add sample Nginx configuration note
