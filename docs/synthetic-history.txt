@@ -218,3 +218,4 @@
 0218 | 2023-05-13 | ci | add sample CI pipeline note
 0219 | 2023-05-13 | nginx | add sample Nginx configuration note
 0220 | 2023-05-13 | docker | add sample Docker deployment note
+0221 | 2023-05-13 | django | add sample Django configuration note
