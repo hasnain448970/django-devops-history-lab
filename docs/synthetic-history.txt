@@ -216,3 +216,4 @@
 0216 | 2023-05-12 | refactor | update sample maintenance note
 0217 | 2023-05-12 | tests | add sample testing checklist
 0218 | 2023-05-13 | ci | add sample CI pipeline note
+0219 | 2023-05-13 | nginx | add sample Nginx configuration note
