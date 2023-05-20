@@ -223,3 +223,4 @@
 0223 | 2023-05-17 | nginx | add sample Nginx configuration note
 0224 | 2023-05-17 | api | add sample API design note
 0225 | 2023-05-19 | api | add sample API design note
+0226 | 2023-05-20 | tests | add sample testing checklist
