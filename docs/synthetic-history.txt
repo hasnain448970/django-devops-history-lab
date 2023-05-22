@@ -228,3 +228,4 @@
 0228 | 2023-05-20 | django | add sample Django configuration note
 0229 | 2023-05-20 | security | add sample security checklist
 0230 | 2023-05-21 | tests | add sample testing checklist
+0231 | 2023-05-22 | ci | add sample CI pipeline note
