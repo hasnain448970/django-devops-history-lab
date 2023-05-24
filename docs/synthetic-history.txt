@@ -230,3 +230,4 @@
 0230 | 2023-05-21 | tests | add sample testing checklist
 0231 | 2023-05-22 | ci | add sample CI pipeline note
 0232 | 2023-05-24 | refactor | update sample maintenance note
+0233 | 2023-05-24 | ci | add sample CI pipeline note
