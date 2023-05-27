@@ -232,3 +232,4 @@
 0232 | 2023-05-24 | refactor | update sample maintenance note
 0233 | 2023-05-24 | ci | add sample CI pipeline note
 0234 | 2023-05-25 | api | add sample API design note
+0235 | 2023-05-27 | security | add sample security checklist
