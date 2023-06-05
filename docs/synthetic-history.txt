@@ -241,3 +241,4 @@
 0241 | 2023-06-02 | nginx | add sample Nginx configuration note
 0242 | 2023-06-02 | nginx | add sample Nginx configuration note
 0243 | 2023-06-03 | ci | add sample CI pipeline note
+0244 | 2023-06-05 | nginx | add sample Nginx configuration note
