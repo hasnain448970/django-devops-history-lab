@@ -243,3 +243,4 @@
 0243 | 2023-06-03 | ci | add sample CI pipeline note
 0244 | 2023-06-05 | nginx | add sample Nginx configuration note
 0245 | 2023-06-06 | release | add sample release checklist
+0246 | 2023-06-08 | database | add sample database optimization note
