@@ -245,3 +245,4 @@
 0245 | 2023-06-06 | release | add sample release checklist
 0246 | 2023-06-08 | database | add sample database optimization note
 0247 | 2023-06-10 | docker | add sample Docker deployment note
+0248 | 2023-06-10 | django | add sample Django configuration note
