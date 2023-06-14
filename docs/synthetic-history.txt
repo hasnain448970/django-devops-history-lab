@@ -250,3 +250,4 @@
 0250 | 2023-06-13 | security | add sample security checklist
 0251 | 2023-06-14 | docker | add sample Docker deployment note
 0252 | 2023-06-14 | database | add sample database optimization note
+0253 | 2023-06-14 | release | add sample release checklist
