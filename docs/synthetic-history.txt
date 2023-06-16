@@ -255,3 +255,4 @@
 0255 | 2023-06-16 | refactor | update sample maintenance note
 0256 | 2023-06-16 | tests | add sample testing checklist
 0257 | 2023-06-16 | docker | add sample Docker deployment note
+0258 | 2023-06-16 | release | add sample release checklist
