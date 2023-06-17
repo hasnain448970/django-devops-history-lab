@@ -257,3 +257,4 @@
 0257 | 2023-06-16 | docker | add sample Docker deployment note
 0258 | 2023-06-16 | release | add sample release checklist
 0259 | 2023-06-17 | refactor | update sample maintenance note
+0260 | 2023-06-17 | refactor | update sample maintenance note
