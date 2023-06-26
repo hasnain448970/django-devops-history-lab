@@ -269,3 +269,4 @@
 0269 | 2023-06-25 | django | add sample Django configuration note
 0270 | 2023-06-25 | database | add sample database optimization note
 0271 | 2023-06-26 | security | add sample security checklist
+0272 | 2023-06-26 | security | add sample security checklist
