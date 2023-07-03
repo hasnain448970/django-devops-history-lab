@@ -274,3 +274,4 @@
 0274 | 2023-06-30 | security | add sample security checklist
 0275 | 2023-07-01 | refactor | update sample maintenance note
 0276 | 2023-07-01 | release | add sample release checklist
+0277 | 2023-07-03 | ci | add sample CI pipeline note
