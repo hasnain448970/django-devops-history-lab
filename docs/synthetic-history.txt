@@ -275,3 +275,4 @@
 0275 | 2023-07-01 | refactor | update sample maintenance note
 0276 | 2023-07-01 | release | add sample release checklist
 0277 | 2023-07-03 | ci | add sample CI pipeline note
+0278 | 2023-07-03 | docker | add sample Docker deployment note
