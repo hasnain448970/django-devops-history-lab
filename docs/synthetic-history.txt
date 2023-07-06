@@ -277,3 +277,4 @@
 0277 | 2023-07-03 | ci | add sample CI pipeline note
 0278 | 2023-07-03 | docker | add sample Docker deployment note
 0279 | 2023-07-04 | nginx | add sample Nginx configuration note
+0280 | 2023-07-06 | refactor | update sample maintenance note
