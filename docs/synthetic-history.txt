@@ -281,3 +281,4 @@
 0281 | 2023-07-07 | tests | add sample testing checklist
 0282 | 2023-07-07 | django | add sample Django configuration note
 0283 | 2023-07-08 | database | add sample database optimization note
+0284 | 2023-07-08 | api | add sample API design note
