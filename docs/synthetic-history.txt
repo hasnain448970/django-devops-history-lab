@@ -284,3 +284,4 @@
 0284 | 2023-07-08 | api | add sample API design note
 0285 | 2023-07-08 | security | add sample security checklist
 0286 | 2023-07-08 | refactor | update sample maintenance note
+0287 | 2023-07-09 | django | add sample Django configuration note
