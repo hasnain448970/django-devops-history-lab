@@ -288,3 +288,4 @@
 0288 | 2023-07-11 | api | add sample API design note
 0289 | 2023-07-12 | api | add sample API design note
 0290 | 2023-07-14 | api | add sample API design note
+0291 | 2023-07-14 | database | add sample database optimization note
