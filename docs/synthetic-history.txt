@@ -289,3 +289,4 @@
 0289 | 2023-07-12 | api | add sample API design note
 0290 | 2023-07-14 | api | add sample API design note
 0291 | 2023-07-14 | database | add sample database optimization note
+0292 | 2023-07-15 | docker | add sample Docker deployment note
