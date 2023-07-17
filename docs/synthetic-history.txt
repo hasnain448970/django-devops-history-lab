@@ -291,3 +291,4 @@
 0291 | 2023-07-14 | database | add sample database optimization note
 0292 | 2023-07-15 | docker | add sample Docker deployment note
 0293 | 2023-07-16 | security | add sample security checklist
+0294 | 2023-07-17 | release | add sample release checklist
