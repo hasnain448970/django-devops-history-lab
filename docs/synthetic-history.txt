@@ -294,3 +294,4 @@
 0294 | 2023-07-17 | release | add sample release checklist
 0295 | 2023-07-18 | refactor | update sample maintenance note
 0296 | 2023-07-21 | release | add sample release checklist
+0297 | 2023-07-22 | ci | add sample CI pipeline note
