@@ -296,3 +296,4 @@
 0296 | 2023-07-21 | release | add sample release checklist
 0297 | 2023-07-22 | ci | add sample CI pipeline note
 0298 | 2023-07-24 | django | add sample Django configuration note
+0299 | 2023-07-25 | api | add sample API design note
