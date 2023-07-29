@@ -300,3 +300,4 @@
 0300 | 2023-07-25 | django | add sample Django configuration note
 0301 | 2023-07-27 | django | add sample Django configuration note
 0302 | 2023-07-28 | docker | add sample Docker deployment note
+0303 | 2023-07-29 | ci | add sample CI pipeline note
