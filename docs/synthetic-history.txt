@@ -303,3 +303,4 @@
 0303 | 2023-07-29 | ci | add sample CI pipeline note
 0304 | 2023-07-31 | docker | add sample Docker deployment note
 0305 | 2023-07-31 | tests | add sample testing checklist
+0306 | 2023-07-31 | tests | add sample testing checklist
