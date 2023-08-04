@@ -305,3 +305,4 @@
 0305 | 2023-07-31 | tests | add sample testing checklist
 0306 | 2023-07-31 | tests | add sample testing checklist
 0307 | 2023-08-03 | django | add sample Django configuration note
+0308 | 2023-08-04 | security | add sample security checklist
