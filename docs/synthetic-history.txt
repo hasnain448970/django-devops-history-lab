@@ -310,3 +310,4 @@
 0310 | 2023-08-07 | ci | add sample CI pipeline note
 0311 | 2023-08-07 | api | add sample API design note
 0312 | 2023-08-08 | security | add sample security checklist
+0313 | 2023-08-08 | refactor | update sample maintenance note
