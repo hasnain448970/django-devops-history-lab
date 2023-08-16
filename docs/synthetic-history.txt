@@ -319,3 +319,4 @@
 0319 | 2023-08-11 | release | add sample release checklist
 0320 | 2023-08-11 | nginx | add sample Nginx configuration note
 0321 | 2023-08-11 | security | add sample security checklist
+0322 | 2023-08-16 | ci | add sample CI pipeline note
