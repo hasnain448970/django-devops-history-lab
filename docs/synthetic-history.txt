@@ -324,3 +324,4 @@
 0324 | 2023-08-17 | security | add sample security checklist
 0325 | 2023-08-18 | api | add sample API design note
 0326 | 2023-08-18 | nginx | add sample Nginx configuration note
+0327 | 2023-08-20 | refactor | update sample maintenance note
