@@ -325,3 +325,4 @@
 0325 | 2023-08-18 | api | add sample API design note
 0326 | 2023-08-18 | nginx | add sample Nginx configuration note
 0327 | 2023-08-20 | refactor | update sample maintenance note
+0328 | 2023-08-20 | release | add sample release checklist
