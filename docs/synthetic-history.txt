@@ -344,3 +344,4 @@
 0344 | 2023-09-03 | release | add sample release checklist
 0345 | 2023-09-03 | refactor | update sample maintenance note
 0346 | 2023-09-05 | nginx | add sample Nginx configuration note
+0347 | 2023-09-05 | api | add sample API design note
