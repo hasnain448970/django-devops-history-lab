@@ -346,3 +346,4 @@
 0346 | 2023-09-05 | nginx | add sample Nginx configuration note
 0347 | 2023-09-05 | api | add sample API design note
 0348 | 2023-09-06 | docker | add sample Docker deployment note
+0349 | 2023-09-07 | tests | add sample testing checklist
