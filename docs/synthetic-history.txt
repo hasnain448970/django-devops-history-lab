@@ -347,3 +347,4 @@
 0347 | 2023-09-05 | api | add sample API design note
 0348 | 2023-09-06 | docker | add sample Docker deployment note
 0349 | 2023-09-07 | tests | add sample testing checklist
+0350 | 2023-09-07 | database | add sample database optimization note
