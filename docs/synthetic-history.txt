@@ -353,3 +353,4 @@
 0353 | 2023-09-10 | database | add sample database optimization note
 0354 | 2023-09-10 | database | add sample database optimization note
 0355 | 2023-09-11 | ci | add sample CI pipeline note
+0356 | 2023-09-12 | ci | add sample CI pipeline note
