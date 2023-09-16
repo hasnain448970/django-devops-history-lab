@@ -354,3 +354,4 @@
 0354 | 2023-09-10 | database | add sample database optimization note
 0355 | 2023-09-11 | ci | add sample CI pipeline note
 0356 | 2023-09-12 | ci | add sample CI pipeline note
+0357 | 2023-09-16 | django | add sample Django configuration note
