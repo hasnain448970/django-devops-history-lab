@@ -356,3 +356,4 @@
 0356 | 2023-09-12 | ci | add sample CI pipeline note
 0357 | 2023-09-16 | django | add sample Django configuration note
 0358 | 2023-09-18 | nginx | add sample Nginx configuration note
+0359 | 2023-09-18 | django | add sample Django configuration note
