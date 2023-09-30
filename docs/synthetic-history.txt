@@ -372,3 +372,4 @@
 0372 | 2023-09-28 | nginx | add sample Nginx configuration note
 0373 | 2023-09-29 | refactor | update sample maintenance note
 0374 | 2023-09-29 | security | add sample security checklist
+0375 | 2023-09-30 | tests | add sample testing checklist
