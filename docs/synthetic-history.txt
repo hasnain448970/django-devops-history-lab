@@ -374,3 +374,4 @@
 0374 | 2023-09-29 | security | add sample security checklist
 0375 | 2023-09-30 | tests | add sample testing checklist
 0376 | 2023-09-30 | docker | add sample Docker deployment note
+0377 | 2023-10-01 | release | add sample release checklist
