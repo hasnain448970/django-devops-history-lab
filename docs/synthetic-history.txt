@@ -377,3 +377,4 @@
 0377 | 2023-10-01 | release | add sample release checklist
 0378 | 2023-10-01 | api | add sample API design note
 0379 | 2023-10-03 | django | add sample Django configuration note
+0380 | 2023-10-03 | release | add sample release checklist
