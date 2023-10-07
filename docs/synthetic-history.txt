@@ -379,3 +379,4 @@
 0379 | 2023-10-03 | django | add sample Django configuration note
 0380 | 2023-10-03 | release | add sample release checklist
 0381 | 2023-10-05 | database | add sample database optimization note
+0382 | 2023-10-07 | nginx | add sample Nginx configuration note
