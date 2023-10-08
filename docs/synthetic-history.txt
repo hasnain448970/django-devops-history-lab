@@ -380,3 +380,4 @@
 0380 | 2023-10-03 | release | add sample release checklist
 0381 | 2023-10-05 | database | add sample database optimization note
 0382 | 2023-10-07 | nginx | add sample Nginx configuration note
+0383 | 2023-10-08 | refactor | update sample maintenance note
