@@ -384,3 +384,4 @@
 0384 | 2023-10-11 | database | add sample database optimization note
 0385 | 2023-10-12 | release | add sample release checklist
 0386 | 2023-10-12 | docker | add sample Docker deployment note
+0387 | 2023-10-12 | docker | add sample Docker deployment note
