@@ -390,3 +390,4 @@
 0390 | 2023-10-22 | refactor | update sample maintenance note
 0391 | 2023-10-22 | refactor | update sample maintenance note
 0392 | 2023-10-23 | django | add sample Django configuration note
+0393 | 2023-10-23 | api | add sample API design note
