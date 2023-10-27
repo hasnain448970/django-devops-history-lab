@@ -394,3 +394,4 @@
 0394 | 2023-10-24 | database | add sample database optimization note
 0395 | 2023-10-26 | refactor | update sample maintenance note
 0396 | 2023-10-27 | release | add sample release checklist
+0397 | 2023-10-27 | tests | add sample testing checklist
