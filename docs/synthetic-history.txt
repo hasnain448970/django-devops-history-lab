@@ -396,3 +396,4 @@
 0396 | 2023-10-27 | release | add sample release checklist
 0397 | 2023-10-27 | tests | add sample testing checklist
 0398 | 2023-10-27 | django | add sample Django configuration note
+0399 | 2023-10-27 | database | add sample database optimization note
