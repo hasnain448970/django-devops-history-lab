@@ -403,3 +403,4 @@
 0403 | 2023-10-31 | database | add sample database optimization note
 0404 | 2023-10-31 | database | add sample database optimization note
 0405 | 2023-11-02 | api | add sample API design note
+0406 | 2023-11-02 | django | add sample Django configuration note
