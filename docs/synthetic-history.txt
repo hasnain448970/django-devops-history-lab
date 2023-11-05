@@ -406,3 +406,4 @@
 0406 | 2023-11-02 | django | add sample Django configuration note
 0407 | 2023-11-03 | ci | add sample CI pipeline note
 0408 | 2023-11-03 | api | add sample API design note
+0409 | 2023-11-05 | release | add sample release checklist
