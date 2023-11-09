@@ -408,3 +408,4 @@
 0408 | 2023-11-03 | api | add sample API design note
 0409 | 2023-11-05 | release | add sample release checklist
 0410 | 2023-11-05 | security | add sample security checklist
+0411 | 2023-11-09 | django | add sample Django configuration note
