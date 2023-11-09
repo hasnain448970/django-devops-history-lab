@@ -409,3 +409,4 @@
 0409 | 2023-11-05 | release | add sample release checklist
 0410 | 2023-11-05 | security | add sample security checklist
 0411 | 2023-11-09 | django | add sample Django configuration note
+0412 | 2023-11-09 | release | add sample release checklist
