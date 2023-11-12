@@ -415,3 +415,4 @@
 0415 | 2023-11-11 | nginx | add sample Nginx configuration note
 0416 | 2023-11-11 | tests | add sample testing checklist
 0417 | 2023-11-11 | refactor | update sample maintenance note
+0418 | 2023-11-12 | api | add sample API design note
