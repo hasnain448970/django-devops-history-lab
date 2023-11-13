@@ -417,3 +417,4 @@
 0417 | 2023-11-11 | refactor | update sample maintenance note
 0418 | 2023-11-12 | api | add sample API design note
 0419 | 2023-11-13 | docker | add sample Docker deployment note
+0420 | 2023-11-13 | release | add sample release checklist
