@@ -424,3 +424,4 @@
 0424 | 2023-11-17 | django | add sample Django configuration note
 0425 | 2023-11-18 | database | add sample database optimization note
 0426 | 2023-11-18 | database | add sample database optimization note
+0427 | 2023-11-20 | database | add sample database optimization note
