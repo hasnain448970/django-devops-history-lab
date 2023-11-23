@@ -426,3 +426,4 @@
 0426 | 2023-11-18 | database | add sample database optimization note
 0427 | 2023-11-20 | database | add sample database optimization note
 0428 | 2023-11-22 | security | add sample security checklist
+0429 | 2023-11-23 | django | add sample Django configuration note
