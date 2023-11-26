@@ -429,3 +429,4 @@
 0429 | 2023-11-23 | django | add sample Django configuration note
 0430 | 2023-11-23 | api | add sample API design note
 0431 | 2023-11-24 | nginx | add sample Nginx configuration note
+0432 | 2023-11-26 | database | add sample database optimization note
