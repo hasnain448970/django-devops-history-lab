@@ -431,3 +431,4 @@
 0431 | 2023-11-24 | nginx | add sample Nginx configuration note
 0432 | 2023-11-26 | database | add sample database optimization note
 0433 | 2023-11-28 | nginx | add sample Nginx configuration note
+0434 | 2023-11-28 | api | add sample API design note
