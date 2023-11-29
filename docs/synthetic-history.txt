@@ -433,3 +433,4 @@
 0433 | 2023-11-28 | nginx | add sample Nginx configuration note
 0434 | 2023-11-28 | api | add sample API design note
 0435 | 2023-11-29 | nginx | add sample Nginx configuration note
+0436 | 2023-11-29 | api | add sample API design note
