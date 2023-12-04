@@ -436,3 +436,4 @@
 0436 | 2023-11-29 | api | add sample API design note
 0437 | 2023-12-01 | refactor | update sample maintenance note
 0438 | 2023-12-02 | ci | add sample CI pipeline note
+0439 | 2023-12-04 | release | add sample release checklist
