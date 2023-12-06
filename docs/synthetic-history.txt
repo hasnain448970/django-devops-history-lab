@@ -440,3 +440,4 @@
 0440 | 2023-12-05 | security | add sample security checklist
 0441 | 2023-12-05 | release | add sample release checklist
 0442 | 2023-12-06 | ci | add sample CI pipeline note
+0443 | 2023-12-06 | nginx | add sample Nginx configuration note
