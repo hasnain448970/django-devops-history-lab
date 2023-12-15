@@ -450,3 +450,4 @@
 0450 | 2023-12-12 | database | add sample database optimization note
 0451 | 2023-12-13 | django | add sample Django configuration note
 0452 | 2023-12-13 | api | add sample API design note
+0453 | 2023-12-15 | nginx | add sample Nginx configuration note
