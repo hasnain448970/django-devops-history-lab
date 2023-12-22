@@ -458,3 +458,4 @@
 0458 | 2023-12-21 | nginx | add sample Nginx configuration note
 0459 | 2023-12-21 | django | add sample Django configuration note
 0460 | 2023-12-22 | nginx | add sample Nginx configuration note
+0461 | 2023-12-22 | release | add sample release checklist
