@@ -465,3 +465,4 @@
 0465 | 2023-12-24 | api | add sample API design note
 0466 | 2023-12-25 | refactor | update sample maintenance note
 0467 | 2023-12-26 | docker | add sample Docker deployment note
+0468 | 2023-12-27 | security | add sample security checklist
