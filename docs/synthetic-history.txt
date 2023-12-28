@@ -468,3 +468,4 @@
 0468 | 2023-12-27 | security | add sample security checklist
 0469 | 2023-12-27 | release | add sample release checklist
 0470 | 2023-12-28 | django | add sample Django configuration note
+0471 | 2023-12-28 | ci | add sample CI pipeline note
