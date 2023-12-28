@@ -467,3 +467,4 @@
 0467 | 2023-12-26 | docker | add sample Docker deployment note
 0468 | 2023-12-27 | security | add sample security checklist
 0469 | 2023-12-27 | release | add sample release checklist
+0470 | 2023-12-28 | django | add sample Django configuration note
