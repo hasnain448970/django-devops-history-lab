@@ -473,3 +473,4 @@
 0473 | 2023-12-31 | release | add sample release checklist
 0474 | 2024-01-03 | database | add sample database optimization note
 0475 | 2024-01-03 | release | add sample release checklist
+0476 | 2024-01-04 | ci | add sample CI pipeline note
