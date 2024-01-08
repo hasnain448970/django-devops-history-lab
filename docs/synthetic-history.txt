@@ -477,3 +477,4 @@
 0477 | 2024-01-04 | database | add sample database optimization note
 0478 | 2024-01-05 | refactor | update sample maintenance note
 0479 | 2024-01-06 | database | add sample database optimization note
+0480 | 2024-01-08 | release | add sample release checklist
