@@ -480,3 +480,4 @@
 0480 | 2024-01-08 | release | add sample release checklist
 0481 | 2024-01-09 | django | add sample Django configuration note
 0482 | 2024-01-09 | security | add sample security checklist
+0483 | 2024-01-10 | nginx | add sample Nginx configuration note
