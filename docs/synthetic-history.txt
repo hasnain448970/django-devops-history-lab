@@ -482,3 +482,4 @@
 0482 | 2024-01-09 | security | add sample security checklist
 0483 | 2024-01-10 | nginx | add sample Nginx configuration note
 0484 | 2024-01-10 | tests | add sample testing checklist
+0485 | 2024-01-13 | release | add sample release checklist
