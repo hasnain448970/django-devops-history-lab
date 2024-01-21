@@ -494,3 +494,4 @@
 0494 | 2024-01-18 | ci | add sample CI pipeline note
 0495 | 2024-01-20 | docker | add sample Docker deployment note
 0496 | 2024-01-20 | nginx | add sample Nginx configuration note
+0497 | 2024-01-21 | django | add sample Django configuration note
