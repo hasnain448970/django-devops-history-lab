@@ -496,3 +496,4 @@
 0496 | 2024-01-20 | nginx | add sample Nginx configuration note
 0497 | 2024-01-21 | django | add sample Django configuration note
 0498 | 2024-01-21 | ci | add sample CI pipeline note
+0499 | 2024-01-22 | api | add sample API design note
