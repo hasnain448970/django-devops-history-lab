@@ -503,3 +503,4 @@
 0503 | 2024-01-23 | api | add sample API design note
 0504 | 2024-01-23 | django | add sample Django configuration note
 0505 | 2024-01-23 | ci | add sample CI pipeline note
+0506 | 2024-01-26 | django | add sample Django configuration note
