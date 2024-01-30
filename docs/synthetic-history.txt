@@ -507,3 +507,4 @@
 0507 | 2024-01-26 | django | add sample Django configuration note
 0508 | 2024-01-28 | database | add sample database optimization note
 0509 | 2024-01-29 | ci | add sample CI pipeline note
+0510 | 2024-01-30 | release | add sample release checklist
