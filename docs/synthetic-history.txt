@@ -510,3 +510,4 @@
 0510 | 2024-01-30 | release | add sample release checklist
 0511 | 2024-01-30 | ci | add sample CI pipeline note
 0512 | 2024-01-31 | nginx | add sample Nginx configuration note
+0513 | 2024-02-01 | nginx | add sample Nginx configuration note
