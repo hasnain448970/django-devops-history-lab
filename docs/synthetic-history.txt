@@ -515,3 +515,4 @@
 0515 | 2024-02-04 | docker | add sample Docker deployment note
 0516 | 2024-02-06 | refactor | update sample maintenance note
 0517 | 2024-02-06 | release | add sample release checklist
+0518 | 2024-02-08 | security | add sample security checklist
