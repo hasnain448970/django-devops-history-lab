@@ -517,3 +517,4 @@
 0517 | 2024-02-06 | release | add sample release checklist
 0518 | 2024-02-08 | security | add sample security checklist
 0519 | 2024-02-08 | tests | add sample testing checklist
+0520 | 2024-02-10 | docker | add sample Docker deployment note
