@@ -521,3 +521,4 @@
 0521 | 2024-02-11 | tests | add sample testing checklist
 0522 | 2024-02-13 | database | add sample database optimization note
 0523 | 2024-02-14 | tests | add sample testing checklist
+0524 | 2024-02-15 | docker | add sample Docker deployment note
