@@ -525,3 +525,4 @@
 0525 | 2024-02-16 | refactor | update sample maintenance note
 0526 | 2024-02-18 | security | add sample security checklist
 0527 | 2024-02-18 | release | add sample release checklist
+0528 | 2024-02-18 | ci | add sample CI pipeline note
