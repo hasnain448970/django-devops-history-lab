@@ -526,3 +526,4 @@
 0526 | 2024-02-18 | security | add sample security checklist
 0527 | 2024-02-18 | release | add sample release checklist
 0528 | 2024-02-18 | ci | add sample CI pipeline note
+0529 | 2024-02-19 | database | add sample database optimization note
