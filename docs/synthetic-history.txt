@@ -530,3 +530,4 @@
 0530 | 2024-02-19 | django | add sample Django configuration note
 0531 | 2024-02-20 | tests | add sample testing checklist
 0532 | 2024-02-21 | django | add sample Django configuration note
+0533 | 2024-02-21 | docker | add sample Docker deployment note
