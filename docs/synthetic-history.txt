@@ -532,3 +532,4 @@
 0532 | 2024-02-21 | django | add sample Django configuration note
 0533 | 2024-02-21 | docker | add sample Docker deployment note
 0534 | 2024-02-21 | ci | add sample CI pipeline note
+0535 | 2024-02-22 | database | add sample database optimization note
