@@ -543,3 +543,4 @@
 0543 | 2024-03-01 | refactor | update sample maintenance note
 0544 | 2024-03-01 | api | add sample API design note
 0545 | 2024-03-03 | refactor | update sample maintenance note
+0546 | 2024-03-03 | docker | add sample Docker deployment note
