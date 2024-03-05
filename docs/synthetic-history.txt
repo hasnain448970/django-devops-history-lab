@@ -546,3 +546,4 @@
 0546 | 2024-03-03 | docker | add sample Docker deployment note
 0547 | 2024-03-03 | refactor | update sample maintenance note
 0548 | 2024-03-05 | release | add sample release checklist
+0549 | 2024-03-05 | docker | add sample Docker deployment note
