@@ -555,3 +555,4 @@
 0555 | 2024-03-13 | security | add sample security checklist
 0556 | 2024-03-14 | api | add sample API design note
 0557 | 2024-03-14 | django | add sample Django configuration note
+0558 | 2024-03-14 | ci | add sample CI pipeline note
