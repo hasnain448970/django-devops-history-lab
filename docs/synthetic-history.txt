@@ -558,3 +558,4 @@
 0558 | 2024-03-14 | ci | add sample CI pipeline note
 0559 | 2024-03-14 | django | add sample Django configuration note
 0560 | 2024-03-15 | release | add sample release checklist
+0561 | 2024-03-15 | database | add sample database optimization note
