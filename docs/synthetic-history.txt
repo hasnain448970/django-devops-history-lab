@@ -561,3 +561,4 @@
 0561 | 2024-03-15 | database | add sample database optimization note
 0562 | 2024-03-15 | release | add sample release checklist
 0563 | 2024-03-16 | docker | add sample Docker deployment note
+0564 | 2024-03-18 | security | add sample security checklist
