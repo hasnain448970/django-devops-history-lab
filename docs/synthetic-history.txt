@@ -567,3 +567,4 @@
 0567 | 2024-03-18 | refactor | update sample maintenance note
 0568 | 2024-03-19 | nginx | add sample Nginx configuration note
 0569 | 2024-03-19 | django | add sample Django configuration note
+0570 | 2024-03-20 | release | add sample release checklist
