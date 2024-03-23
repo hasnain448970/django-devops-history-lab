@@ -573,3 +573,4 @@
 0573 | 2024-03-22 | django | add sample Django configuration note
 0574 | 2024-03-23 | refactor | update sample maintenance note
 0575 | 2024-03-23 | ci | add sample CI pipeline note
+0576 | 2024-03-23 | tests | add sample testing checklist
