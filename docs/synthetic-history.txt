@@ -575,3 +575,4 @@
 0575 | 2024-03-23 | ci | add sample CI pipeline note
 0576 | 2024-03-23 | tests | add sample testing checklist
 0577 | 2024-03-23 | tests | add sample testing checklist
+0578 | 2024-03-24 | security | add sample security checklist
