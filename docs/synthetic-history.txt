@@ -577,3 +577,4 @@
 0577 | 2024-03-23 | tests | add sample testing checklist
 0578 | 2024-03-24 | security | add sample security checklist
 0579 | 2024-03-26 | api | add sample API design note
+0580 | 2024-03-27 | django | add sample Django configuration note
