@@ -578,3 +578,4 @@
 0578 | 2024-03-24 | security | add sample security checklist
 0579 | 2024-03-26 | api | add sample API design note
 0580 | 2024-03-27 | django | add sample Django configuration note
+0581 | 2024-03-28 | release | add sample release checklist
