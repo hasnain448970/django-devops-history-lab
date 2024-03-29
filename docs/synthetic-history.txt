@@ -580,3 +580,4 @@
 0580 | 2024-03-27 | django | add sample Django configuration note
 0581 | 2024-03-28 | release | add sample release checklist
 0582 | 2024-03-28 | ci | add sample CI pipeline note
+0583 | 2024-03-29 | api | add sample API design note
