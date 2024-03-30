@@ -583,3 +583,4 @@
 0583 | 2024-03-29 | api | add sample API design note
 0584 | 2024-03-30 | refactor | update sample maintenance note
 0585 | 2024-03-30 | docker | add sample Docker deployment note
+0586 | 2024-03-30 | security | add sample security checklist
