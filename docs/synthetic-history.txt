@@ -585,3 +585,4 @@
 0585 | 2024-03-30 | docker | add sample Docker deployment note
 0586 | 2024-03-30 | security | add sample security checklist
 0587 | 2024-03-30 | docker | add sample Docker deployment note
+0588 | 2024-03-31 | security | add sample security checklist
