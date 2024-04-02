@@ -591,3 +591,4 @@
 0591 | 2024-04-02 | ci | add sample CI pipeline note
 0592 | 2024-04-02 | database | add sample database optimization note
 0593 | 2024-04-02 | nginx | add sample Nginx configuration note
+0594 | 2024-04-02 | nginx | add sample Nginx configuration note
