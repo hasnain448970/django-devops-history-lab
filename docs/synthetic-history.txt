@@ -588,3 +588,4 @@
 0588 | 2024-03-31 | security | add sample security checklist
 0589 | 2024-03-31 | django | add sample Django configuration note
 0590 | 2024-04-01 | docker | add sample Docker deployment note
+0591 | 2024-04-02 | ci | add sample CI pipeline note
