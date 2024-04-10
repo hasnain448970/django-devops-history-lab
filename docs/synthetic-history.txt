@@ -601,3 +601,4 @@
 0601 | 2024-04-08 | security | add sample security checklist
 0602 | 2024-04-08 | database | add sample database optimization note
 0603 | 2024-04-09 | nginx | add sample Nginx configuration note
+0604 | 2024-04-10 | security | add sample security checklist
