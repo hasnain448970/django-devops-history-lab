@@ -605,3 +605,4 @@
 0605 | 2024-04-12 | database | add sample database optimization note
 0606 | 2024-04-13 | django | add sample Django configuration note
 0607 | 2024-04-13 | django | add sample Django configuration note
+0608 | 2024-04-15 | security | add sample security checklist
