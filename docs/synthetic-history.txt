@@ -608,3 +608,4 @@
 0608 | 2024-04-15 | security | add sample security checklist
 0609 | 2024-04-15 | api | add sample API design note
 0610 | 2024-04-15 | security | add sample security checklist
+0611 | 2024-04-17 | tests | add sample testing checklist
