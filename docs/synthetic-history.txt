@@ -613,3 +613,4 @@
 0613 | 2024-04-19 | django | add sample Django configuration note
 0614 | 2024-04-22 | api | add sample API design note
 0615 | 2024-04-22 | docker | add sample Docker deployment note
+0616 | 2024-04-24 | database | add sample database optimization note
