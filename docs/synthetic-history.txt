@@ -617,3 +617,4 @@
 0617 | 2024-04-24 | nginx | add sample Nginx configuration note
 0618 | 2024-04-27 | database | add sample database optimization note
 0619 | 2024-04-27 | database | add sample database optimization note
+0620 | 2024-04-27 | release | add sample release checklist
