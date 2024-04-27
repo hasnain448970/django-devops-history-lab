@@ -618,3 +618,4 @@
 0618 | 2024-04-27 | database | add sample database optimization note
 0619 | 2024-04-27 | database | add sample database optimization note
 0620 | 2024-04-27 | release | add sample release checklist
+0621 | 2024-04-27 | docker | add sample Docker deployment note
