@@ -622,3 +622,4 @@
 0622 | 2024-04-29 | nginx | add sample Nginx configuration note
 0623 | 2024-04-30 | release | add sample release checklist
 0624 | 2024-05-01 | release | add sample release checklist
+0625 | 2024-05-02 | refactor | update sample maintenance note
