@@ -623,3 +623,4 @@
 0623 | 2024-04-30 | release | add sample release checklist
 0624 | 2024-05-01 | release | add sample release checklist
 0625 | 2024-05-02 | refactor | update sample maintenance note
+0626 | 2024-05-03 | docker | add sample Docker deployment note
