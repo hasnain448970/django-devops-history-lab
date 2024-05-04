@@ -625,3 +625,4 @@
 0625 | 2024-05-02 | refactor | update sample maintenance note
 0626 | 2024-05-03 | docker | add sample Docker deployment note
 0627 | 2024-05-04 | refactor | update sample maintenance note
+0628 | 2024-05-04 | database | add sample database optimization note
