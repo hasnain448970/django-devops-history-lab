@@ -627,3 +627,4 @@
 0627 | 2024-05-04 | refactor | update sample maintenance note
 0628 | 2024-05-04 | database | add sample database optimization note
 0629 | 2024-05-04 | django | add sample Django configuration note
+0630 | 2024-05-07 | nginx | add sample Nginx configuration note
