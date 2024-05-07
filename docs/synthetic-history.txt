@@ -629,3 +629,4 @@
 0629 | 2024-05-04 | django | add sample Django configuration note
 0630 | 2024-05-07 | nginx | add sample Nginx configuration note
 0631 | 2024-05-07 | refactor | update sample maintenance note
+0632 | 2024-05-07 | api | add sample API design note
