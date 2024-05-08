@@ -631,3 +631,4 @@
 0631 | 2024-05-07 | refactor | update sample maintenance note
 0632 | 2024-05-07 | api | add sample API design note
 0633 | 2024-05-08 | docker | add sample Docker deployment note
+0634 | 2024-05-08 | refactor | update sample maintenance note
