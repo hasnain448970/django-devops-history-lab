@@ -637,3 +637,4 @@
 0637 | 2024-05-11 | api | add sample API design note
 0638 | 2024-05-12 | database | add sample database optimization note
 0639 | 2024-05-13 | database | add sample database optimization note
+0640 | 2024-05-13 | release | add sample release checklist
