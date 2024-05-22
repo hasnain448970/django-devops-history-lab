@@ -648,3 +648,4 @@
 0648 | 2024-05-19 | ci | add sample CI pipeline note
 0649 | 2024-05-20 | release | add sample release checklist
 0650 | 2024-05-21 | release | add sample release checklist
+0651 | 2024-05-22 | api | add sample API design note
