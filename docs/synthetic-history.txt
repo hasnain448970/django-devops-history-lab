@@ -651,3 +651,4 @@
 0651 | 2024-05-22 | api | add sample API design note
 0652 | 2024-05-22 | tests | add sample testing checklist
 0653 | 2024-05-24 | ci | add sample CI pipeline note
+0654 | 2024-05-24 | tests | add sample testing checklist
