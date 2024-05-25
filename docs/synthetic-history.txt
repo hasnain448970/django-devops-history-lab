@@ -653,3 +653,4 @@
 0653 | 2024-05-24 | ci | add sample CI pipeline note
 0654 | 2024-05-24 | tests | add sample testing checklist
 0655 | 2024-05-24 | release | add sample release checklist
+0656 | 2024-05-25 | ci | add sample CI pipeline note
