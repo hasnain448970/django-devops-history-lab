@@ -655,3 +655,4 @@
 0655 | 2024-05-24 | release | add sample release checklist
 0656 | 2024-05-25 | ci | add sample CI pipeline note
 0657 | 2024-05-25 | nginx | add sample Nginx configuration note
+0658 | 2024-05-26 | docker | add sample Docker deployment note
