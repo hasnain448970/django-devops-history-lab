@@ -658,3 +658,4 @@
 0658 | 2024-05-26 | docker | add sample Docker deployment note
 0659 | 2024-05-29 | refactor | update sample maintenance note
 0660 | 2024-05-30 | ci | add sample CI pipeline note
+0661 | 2024-05-30 | ci | add sample CI pipeline note
