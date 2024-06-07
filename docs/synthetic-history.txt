@@ -661,3 +661,4 @@
 0661 | 2024-05-30 | ci | add sample CI pipeline note
 0662 | 2024-05-31 | release | add sample release checklist
 0663 | 2024-06-06 | django | add sample Django configuration note
+0664 | 2024-06-07 | security | add sample security checklist
