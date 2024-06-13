@@ -667,3 +667,4 @@
 0667 | 2024-06-09 | database | add sample database optimization note
 0668 | 2024-06-09 | django | add sample Django configuration note
 0669 | 2024-06-12 | database | add sample database optimization note
+0670 | 2024-06-13 | release | add sample release checklist
