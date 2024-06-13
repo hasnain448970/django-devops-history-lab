@@ -670,3 +670,4 @@
 0670 | 2024-06-13 | release | add sample release checklist
 0671 | 2024-06-13 | nginx | add sample Nginx configuration note
 0672 | 2024-06-13 | release | add sample release checklist
+0673 | 2024-06-13 | release | add sample release checklist
