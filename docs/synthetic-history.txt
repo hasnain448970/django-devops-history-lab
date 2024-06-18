@@ -678,3 +678,4 @@
 0678 | 2024-06-17 | release | add sample release checklist
 0679 | 2024-06-17 | release | add sample release checklist
 0680 | 2024-06-18 | django | add sample Django configuration note
+0681 | 2024-06-18 | release | add sample release checklist
