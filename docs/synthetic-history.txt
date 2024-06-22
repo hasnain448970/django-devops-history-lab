@@ -683,3 +683,4 @@
 0683 | 2024-06-19 | django | add sample Django configuration note
 0684 | 2024-06-22 | tests | add sample testing checklist
 0685 | 2024-06-22 | nginx | add sample Nginx configuration note
+0686 | 2024-06-22 | security | add sample security checklist
