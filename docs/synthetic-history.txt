@@ -684,3 +684,4 @@
 0684 | 2024-06-22 | tests | add sample testing checklist
 0685 | 2024-06-22 | nginx | add sample Nginx configuration note
 0686 | 2024-06-22 | security | add sample security checklist
+0687 | 2024-06-23 | database | add sample database optimization note
