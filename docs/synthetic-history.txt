@@ -690,3 +690,4 @@
 0690 | 2024-06-27 | nginx | add sample Nginx configuration note
 0691 | 2024-06-27 | security | add sample security checklist
 0692 | 2024-06-27 | django | add sample Django configuration note
+0693 | 2024-06-29 | docker | add sample Docker deployment note
