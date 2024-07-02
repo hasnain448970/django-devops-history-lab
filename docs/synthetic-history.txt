@@ -694,3 +694,4 @@
 0694 | 2024-06-30 | security | add sample security checklist
 0695 | 2024-07-01 | django | add sample Django configuration note
 0696 | 2024-07-02 | api | add sample API design note
+0697 | 2024-07-02 | tests | add sample testing checklist
