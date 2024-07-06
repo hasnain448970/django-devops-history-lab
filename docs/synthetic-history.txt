@@ -696,3 +696,4 @@
 0696 | 2024-07-02 | api | add sample API design note
 0697 | 2024-07-02 | tests | add sample testing checklist
 0698 | 2024-07-04 | tests | add sample testing checklist
+0699 | 2024-07-06 | nginx | add sample Nginx configuration note
