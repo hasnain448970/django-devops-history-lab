@@ -704,3 +704,4 @@
 0704 | 2024-07-12 | security | add sample security checklist
 0705 | 2024-07-12 | docker | add sample Docker deployment note
 0706 | 2024-07-15 | nginx | add sample Nginx configuration note
+0707 | 2024-07-15 | django | add sample Django configuration note
