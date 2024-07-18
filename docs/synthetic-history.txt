@@ -708,3 +708,4 @@
 0708 | 2024-07-16 | ci | add sample CI pipeline note
 0709 | 2024-07-16 | refactor | update sample maintenance note
 0710 | 2024-07-17 | refactor | update sample maintenance note
+0711 | 2024-07-18 | nginx | add sample Nginx configuration note
