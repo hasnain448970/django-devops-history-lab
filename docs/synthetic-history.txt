@@ -711,3 +711,4 @@
 0711 | 2024-07-18 | nginx | add sample Nginx configuration note
 0712 | 2024-07-21 | security | add sample security checklist
 0713 | 2024-07-22 | tests | add sample testing checklist
+0714 | 2024-07-24 | nginx | add sample Nginx configuration note
