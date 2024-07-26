@@ -714,3 +714,4 @@
 0714 | 2024-07-24 | nginx | add sample Nginx configuration note
 0715 | 2024-07-26 | django | add sample Django configuration note
 0716 | 2024-07-26 | database | add sample database optimization note
+0717 | 2024-07-26 | security | add sample security checklist
