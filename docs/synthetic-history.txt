@@ -717,3 +717,4 @@
 0717 | 2024-07-26 | security | add sample security checklist
 0718 | 2024-07-27 | nginx | add sample Nginx configuration note
 0719 | 2024-07-27 | nginx | add sample Nginx configuration note
+0720 | 2024-07-28 | api | add sample API design note
