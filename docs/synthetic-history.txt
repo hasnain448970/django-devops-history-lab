@@ -718,3 +718,4 @@
 0718 | 2024-07-27 | nginx | add sample Nginx configuration note
 0719 | 2024-07-27 | nginx | add sample Nginx configuration note
 0720 | 2024-07-28 | api | add sample API design note
+0721 | 2024-07-29 | ci | add sample CI pipeline note
