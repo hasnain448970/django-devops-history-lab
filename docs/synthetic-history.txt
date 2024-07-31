@@ -720,3 +720,4 @@
 0720 | 2024-07-28 | api | add sample API design note
 0721 | 2024-07-29 | ci | add sample CI pipeline note
 0722 | 2024-07-30 | security | add sample security checklist
+0723 | 2024-07-31 | tests | add sample testing checklist
