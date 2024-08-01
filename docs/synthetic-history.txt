@@ -721,3 +721,4 @@
 0721 | 2024-07-29 | ci | add sample CI pipeline note
 0722 | 2024-07-30 | security | add sample security checklist
 0723 | 2024-07-31 | tests | add sample testing checklist
+0724 | 2024-08-01 | release | add sample release checklist
