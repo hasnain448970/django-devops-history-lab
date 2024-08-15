@@ -734,3 +734,4 @@
 0734 | 2024-08-11 | database | add sample database optimization note
 0735 | 2024-08-11 | api | add sample API design note
 0736 | 2024-08-15 | release | add sample release checklist
+0737 | 2024-08-15 | nginx | add sample Nginx configuration note
