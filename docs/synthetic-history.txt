@@ -737,3 +737,4 @@
 0737 | 2024-08-15 | nginx | add sample Nginx configuration note
 0738 | 2024-08-15 | database | add sample database optimization note
 0739 | 2024-08-16 | nginx | add sample Nginx configuration note
+0740 | 2024-08-17 | ci | add sample CI pipeline note
