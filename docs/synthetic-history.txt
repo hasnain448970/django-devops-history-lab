@@ -739,3 +739,4 @@
 0739 | 2024-08-16 | nginx | add sample Nginx configuration note
 0740 | 2024-08-17 | ci | add sample CI pipeline note
 0741 | 2024-08-18 | database | add sample database optimization note
+0742 | 2024-08-19 | release | add sample release checklist
