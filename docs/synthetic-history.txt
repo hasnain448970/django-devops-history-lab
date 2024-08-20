@@ -743,3 +743,4 @@
 0743 | 2024-08-19 | docker | add sample Docker deployment note
 0744 | 2024-08-19 | ci | add sample CI pipeline note
 0745 | 2024-08-20 | django | add sample Django configuration note
+0746 | 2024-08-20 | tests | add sample testing checklist
