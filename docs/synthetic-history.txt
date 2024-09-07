@@ -761,3 +761,4 @@
 0761 | 2024-09-05 | security | add sample security checklist
 0762 | 2024-09-06 | security | add sample security checklist
 0763 | 2024-09-07 | database | add sample database optimization note
+0764 | 2024-09-07 | security | add sample security checklist
