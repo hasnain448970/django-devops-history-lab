@@ -763,3 +763,4 @@
 0763 | 2024-09-07 | database | add sample database optimization note
 0764 | 2024-09-07 | security | add sample security checklist
 0765 | 2024-09-09 | docker | add sample Docker deployment note
+0766 | 2024-09-09 | ci | add sample CI pipeline note
