@@ -766,3 +766,4 @@
 0766 | 2024-09-09 | ci | add sample CI pipeline note
 0767 | 2024-09-12 | release | add sample release checklist
 0768 | 2024-09-13 | ci | add sample CI pipeline note
+0769 | 2024-09-15 | ci | add sample CI pipeline note
