@@ -777,3 +777,4 @@
 0777 | 2024-09-25 | api | add sample API design note
 0778 | 2024-09-25 | api | add sample API design note
 0779 | 2024-09-26 | api | add sample API design note
+0780 | 2024-09-26 | api | add sample API design note
