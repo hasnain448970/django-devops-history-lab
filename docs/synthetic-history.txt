@@ -780,3 +780,4 @@
 0780 | 2024-09-26 | api | add sample API design note
 0781 | 2024-09-27 | database | add sample database optimization note
 0782 | 2024-10-01 | ci | add sample CI pipeline note
+0783 | 2024-10-02 | security | add sample security checklist
