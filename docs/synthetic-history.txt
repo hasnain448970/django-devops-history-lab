@@ -782,3 +782,4 @@
 0782 | 2024-10-01 | ci | add sample CI pipeline note
 0783 | 2024-10-02 | security | add sample security checklist
 0784 | 2024-10-03 | database | add sample database optimization note
+0785 | 2024-10-03 | tests | add sample testing checklist
