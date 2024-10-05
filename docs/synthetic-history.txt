@@ -785,3 +785,4 @@
 0785 | 2024-10-03 | tests | add sample testing checklist
 0786 | 2024-10-05 | django | add sample Django configuration note
 0787 | 2024-10-05 | api | add sample API design note
+0788 | 2024-10-05 | nginx | add sample Nginx configuration note
