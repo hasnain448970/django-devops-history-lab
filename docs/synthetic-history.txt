@@ -787,3 +787,4 @@
 0787 | 2024-10-05 | api | add sample API design note
 0788 | 2024-10-05 | nginx | add sample Nginx configuration note
 0789 | 2024-10-06 | nginx | add sample Nginx configuration note
+0790 | 2024-10-06 | database | add sample database optimization note
