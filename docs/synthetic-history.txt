@@ -788,3 +788,4 @@
 0788 | 2024-10-05 | nginx | add sample Nginx configuration note
 0789 | 2024-10-06 | nginx | add sample Nginx configuration note
 0790 | 2024-10-06 | database | add sample database optimization note
+0791 | 2024-10-09 | ci | add sample CI pipeline note
