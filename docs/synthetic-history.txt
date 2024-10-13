@@ -791,3 +791,4 @@
 0791 | 2024-10-09 | ci | add sample CI pipeline note
 0792 | 2024-10-10 | docker | add sample Docker deployment note
 0793 | 2024-10-11 | api | add sample API design note
+0794 | 2024-10-13 | ci | add sample CI pipeline note
