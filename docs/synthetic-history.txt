@@ -793,3 +793,4 @@
 0793 | 2024-10-11 | api | add sample API design note
 0794 | 2024-10-13 | ci | add sample CI pipeline note
 0795 | 2024-10-14 | database | add sample database optimization note
+0796 | 2024-10-14 | security | add sample security checklist
