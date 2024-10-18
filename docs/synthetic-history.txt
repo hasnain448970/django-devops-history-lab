@@ -795,3 +795,4 @@
 0795 | 2024-10-14 | database | add sample database optimization note
 0796 | 2024-10-14 | security | add sample security checklist
 0797 | 2024-10-17 | docker | add sample Docker deployment note
+0798 | 2024-10-18 | ci | add sample CI pipeline note
