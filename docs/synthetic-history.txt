@@ -798,3 +798,4 @@
 0798 | 2024-10-18 | ci | add sample CI pipeline note
 0799 | 2024-10-18 | release | add sample release checklist
 0800 | 2024-10-19 | ci | add sample CI pipeline note
+0801 | 2024-10-19 | django | add sample Django configuration note
