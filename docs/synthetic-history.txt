@@ -805,3 +805,4 @@
 0805 | 2024-10-21 | django | add sample Django configuration note
 0806 | 2024-10-25 | release | add sample release checklist
 0807 | 2024-10-28 | security | add sample security checklist
+0808 | 2024-10-29 | database | add sample database optimization note
