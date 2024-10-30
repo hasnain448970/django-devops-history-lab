@@ -806,3 +806,4 @@
 0806 | 2024-10-25 | release | add sample release checklist
 0807 | 2024-10-28 | security | add sample security checklist
 0808 | 2024-10-29 | database | add sample database optimization note
+0809 | 2024-10-30 | nginx | add sample Nginx configuration note
