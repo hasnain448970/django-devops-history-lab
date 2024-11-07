@@ -817,3 +817,4 @@
 0817 | 2024-11-04 | database | add sample database optimization note
 0818 | 2024-11-05 | refactor | update sample maintenance note
 0819 | 2024-11-05 | nginx | add sample Nginx configuration note
+0820 | 2024-11-07 | docker | add sample Docker deployment note
