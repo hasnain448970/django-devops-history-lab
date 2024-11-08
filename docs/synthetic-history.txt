@@ -820,3 +820,4 @@
 0820 | 2024-11-07 | docker | add sample Docker deployment note
 0821 | 2024-11-07 | refactor | update sample maintenance note
 0822 | 2024-11-07 | nginx | add sample Nginx configuration note
+0823 | 2024-11-08 | database | add sample database optimization note
