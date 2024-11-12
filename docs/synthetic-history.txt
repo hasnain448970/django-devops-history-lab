@@ -824,3 +824,4 @@
 0824 | 2024-11-08 | ci | add sample CI pipeline note
 0825 | 2024-11-08 | django | add sample Django configuration note
 0826 | 2024-11-12 | nginx | add sample Nginx configuration note
+0827 | 2024-11-12 | tests | add sample testing checklist
