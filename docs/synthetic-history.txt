@@ -843,3 +843,4 @@
 0843 | 2024-11-20 | ci | add sample CI pipeline note
 0844 | 2024-11-21 | nginx | add sample Nginx configuration note
 0845 | 2024-11-23 | release | add sample release checklist
+0846 | 2024-11-23 | nginx | add sample Nginx configuration note
