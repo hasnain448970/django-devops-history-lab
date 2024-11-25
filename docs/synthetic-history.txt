@@ -846,3 +846,4 @@
 0846 | 2024-11-23 | nginx | add sample Nginx configuration note
 0847 | 2024-11-25 | api | add sample API design note
 0848 | 2024-11-25 | docker | add sample Docker deployment note
+0849 | 2024-11-25 | tests | add sample testing checklist
