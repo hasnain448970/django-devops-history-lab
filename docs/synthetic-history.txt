@@ -854,3 +854,4 @@
 0854 | 2024-11-29 | api | add sample API design note
 0855 | 2024-11-29 | docker | add sample Docker deployment note
 0856 | 2024-11-30 | api | add sample API design note
+0857 | 2024-11-30 | refactor | update sample maintenance note
