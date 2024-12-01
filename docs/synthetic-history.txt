@@ -855,3 +855,4 @@
 0855 | 2024-11-29 | docker | add sample Docker deployment note
 0856 | 2024-11-30 | api | add sample API design note
 0857 | 2024-11-30 | refactor | update sample maintenance note
+0858 | 2024-12-01 | docker | add sample Docker deployment note
