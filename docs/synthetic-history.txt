@@ -860,3 +860,4 @@
 0860 | 2024-12-02 | django | add sample Django configuration note
 0861 | 2024-12-02 | nginx | add sample Nginx configuration note
 0862 | 2024-12-03 | tests | add sample testing checklist
+0863 | 2024-12-05 | security | add sample security checklist
