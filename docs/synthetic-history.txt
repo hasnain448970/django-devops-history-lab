@@ -865,3 +865,4 @@
 0865 | 2024-12-07 | release | add sample release checklist
 0866 | 2024-12-07 | release | add sample release checklist
 0867 | 2024-12-09 | docker | add sample Docker deployment note
+0868 | 2024-12-11 | api | add sample API design note
