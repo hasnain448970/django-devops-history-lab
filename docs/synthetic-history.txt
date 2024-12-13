@@ -867,3 +867,4 @@
 0867 | 2024-12-09 | docker | add sample Docker deployment note
 0868 | 2024-12-11 | api | add sample API design note
 0869 | 2024-12-11 | tests | add sample testing checklist
+0870 | 2024-12-13 | tests | add sample testing checklist
