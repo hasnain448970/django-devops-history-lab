@@ -883,3 +883,4 @@
 0883 | 2024-12-25 | release | add sample release checklist
 0884 | 2024-12-25 | docker | add sample Docker deployment note
 0885 | 2024-12-25 | ci | add sample CI pipeline note
+0886 | 2024-12-25 | security | add sample security checklist
