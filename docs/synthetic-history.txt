@@ -880,3 +880,4 @@
 0880 | 2024-12-23 | nginx | add sample Nginx configuration note
 0881 | 2024-12-23 | security | add sample security checklist
 0882 | 2024-12-24 | django | add sample Django configuration note
+0883 | 2024-12-25 | release | add sample release checklist
