@@ -885,3 +885,4 @@
 0885 | 2024-12-25 | ci | add sample CI pipeline note
 0886 | 2024-12-25 | security | add sample security checklist
 0887 | 2024-12-26 | nginx | add sample Nginx configuration note
+0888 | 2024-12-27 | api | add sample API design note
