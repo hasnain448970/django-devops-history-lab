@@ -890,3 +890,4 @@
 0890 | 2024-12-28 | ci | add sample CI pipeline note
 0891 | 2024-12-28 | api | add sample API design note
 0892 | 2024-12-29 | security | add sample security checklist
+0893 | 2024-12-29 | api | add sample API design note
