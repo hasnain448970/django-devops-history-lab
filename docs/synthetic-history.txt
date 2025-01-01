@@ -896,3 +896,4 @@
 0896 | 2024-12-31 | release | add sample release checklist
 0897 | 2025-01-01 | security | add sample security checklist
 0898 | 2025-01-01 | ci | add sample CI pipeline note
+0899 | 2025-01-01 | django | add sample Django configuration note
