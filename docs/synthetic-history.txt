@@ -895,3 +895,4 @@
 0895 | 2024-12-30 | release | add sample release checklist
 0896 | 2024-12-31 | release | add sample release checklist
 0897 | 2025-01-01 | security | add sample security checklist
+0898 | 2025-01-01 | ci | add sample CI pipeline note
