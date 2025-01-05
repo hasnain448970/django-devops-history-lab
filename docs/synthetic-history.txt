@@ -900,3 +900,4 @@
 0900 | 2025-01-02 | docker | add sample Docker deployment note
 0901 | 2025-01-03 | ci | add sample CI pipeline note
 0902 | 2025-01-03 | api | add sample API design note
+0903 | 2025-01-05 | django | add sample Django configuration note
