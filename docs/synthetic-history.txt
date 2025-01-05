@@ -901,3 +901,4 @@
 0901 | 2025-01-03 | ci | add sample CI pipeline note
 0902 | 2025-01-03 | api | add sample API design note
 0903 | 2025-01-05 | django | add sample Django configuration note
+0904 | 2025-01-05 | ci | add sample CI pipeline note
