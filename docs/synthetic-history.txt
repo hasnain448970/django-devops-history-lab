@@ -908,3 +908,4 @@
 0908 | 2025-01-07 | database | add sample database optimization note
 0909 | 2025-01-08 | api | add sample API design note
 0910 | 2025-01-09 | release | add sample release checklist
+0911 | 2025-01-12 | nginx | add sample Nginx configuration note
