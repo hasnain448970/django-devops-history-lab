@@ -911,3 +911,4 @@
 0911 | 2025-01-12 | nginx | add sample Nginx configuration note
 0912 | 2025-01-13 | nginx | add sample Nginx configuration note
 0913 | 2025-01-13 | django | add sample Django configuration note
+0914 | 2025-01-13 | security | add sample security checklist
