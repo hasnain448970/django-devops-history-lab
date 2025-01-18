@@ -919,3 +919,4 @@
 0919 | 2025-01-16 | docker | add sample Docker deployment note
 0920 | 2025-01-17 | security | add sample security checklist
 0921 | 2025-01-17 | security | add sample security checklist
+0922 | 2025-01-18 | nginx | add sample Nginx configuration note
