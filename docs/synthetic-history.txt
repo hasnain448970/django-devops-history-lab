@@ -924,3 +924,4 @@
 0924 | 2025-01-19 | security | add sample security checklist
 0925 | 2025-01-19 | django | add sample Django configuration note
 0926 | 2025-01-19 | api | add sample API design note
+0927 | 2025-01-20 | ci | add sample CI pipeline note
