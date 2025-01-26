@@ -932,3 +932,4 @@
 0932 | 2025-01-22 | release | add sample release checklist
 0933 | 2025-01-25 | security | add sample security checklist
 0934 | 2025-01-25 | django | add sample Django configuration note
+0935 | 2025-01-26 | security | add sample security checklist
