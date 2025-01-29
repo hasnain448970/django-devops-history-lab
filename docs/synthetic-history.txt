@@ -937,3 +937,4 @@
 0937 | 2025-01-27 | security | add sample security checklist
 0938 | 2025-01-27 | refactor | update sample maintenance note
 0939 | 2025-01-28 | ci | add sample CI pipeline note
+0940 | 2025-01-29 | nginx | add sample Nginx configuration note
