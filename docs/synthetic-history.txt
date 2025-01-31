@@ -944,3 +944,4 @@
 0944 | 2025-01-31 | api | add sample API design note
 0945 | 2025-01-31 | refactor | update sample maintenance note
 0946 | 2025-01-31 | docker | add sample Docker deployment note
+0947 | 2025-01-31 | nginx | add sample Nginx configuration note
