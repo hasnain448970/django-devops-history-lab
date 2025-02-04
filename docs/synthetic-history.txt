@@ -947,3 +947,4 @@
 0947 | 2025-01-31 | nginx | add sample Nginx configuration note
 0948 | 2025-02-01 | refactor | update sample maintenance note
 0949 | 2025-02-03 | nginx | add sample Nginx configuration note
+0950 | 2025-02-04 | release | add sample release checklist
