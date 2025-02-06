@@ -951,3 +951,4 @@
 0951 | 2025-02-04 | docker | add sample Docker deployment note
 0952 | 2025-02-05 | nginx | add sample Nginx configuration note
 0953 | 2025-02-06 | docker | add sample Docker deployment note
+0954 | 2025-02-06 | ci | add sample CI pipeline note
