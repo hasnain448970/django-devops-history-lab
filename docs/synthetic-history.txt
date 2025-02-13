@@ -960,3 +960,4 @@
 0960 | 2025-02-11 | refactor | update sample maintenance note
 0961 | 2025-02-12 | tests | add sample testing checklist
 0962 | 2025-02-13 | release | add sample release checklist
+0963 | 2025-02-13 | api | add sample API design note
