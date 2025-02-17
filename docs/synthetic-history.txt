@@ -964,3 +964,4 @@
 0964 | 2025-02-15 | release | add sample release checklist
 0965 | 2025-02-16 | release | add sample release checklist
 0966 | 2025-02-17 | api | add sample API design note
+0967 | 2025-02-17 | nginx | add sample Nginx configuration note
