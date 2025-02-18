@@ -967,3 +967,4 @@
 0967 | 2025-02-17 | nginx | add sample Nginx configuration note
 0968 | 2025-02-17 | release | add sample release checklist
 0969 | 2025-02-18 | tests | add sample testing checklist
+0970 | 2025-02-18 | docker | add sample Docker deployment note
