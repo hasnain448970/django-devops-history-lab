@@ -971,3 +971,4 @@
 0971 | 2025-02-18 | tests | add sample testing checklist
 0972 | 2025-02-20 | docker | add sample Docker deployment note
 0973 | 2025-02-20 | api | add sample API design note
+0974 | 2025-02-20 | nginx | add sample Nginx configuration note
