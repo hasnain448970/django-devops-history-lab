@@ -973,3 +973,4 @@
 0973 | 2025-02-20 | api | add sample API design note
 0974 | 2025-02-20 | nginx | add sample Nginx configuration note
 0975 | 2025-02-22 | tests | add sample testing checklist
+0976 | 2025-02-22 | security | add sample security checklist
