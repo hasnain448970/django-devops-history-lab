@@ -975,3 +975,4 @@
 0975 | 2025-02-22 | tests | add sample testing checklist
 0976 | 2025-02-22 | security | add sample security checklist
 0977 | 2025-02-23 | django | add sample Django configuration note
+0978 | 2025-02-23 | nginx | add sample Nginx configuration note
