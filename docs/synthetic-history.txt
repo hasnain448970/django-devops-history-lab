@@ -980,3 +980,4 @@
 0980 | 2025-02-25 | release | add sample release checklist
 0981 | 2025-02-25 | docker | add sample Docker deployment note
 0982 | 2025-02-26 | ci | add sample CI pipeline note
+0983 | 2025-02-26 | release | add sample release checklist
