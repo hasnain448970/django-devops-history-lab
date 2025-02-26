@@ -982,3 +982,4 @@
 0982 | 2025-02-26 | ci | add sample CI pipeline note
 0983 | 2025-02-26 | release | add sample release checklist
 0984 | 2025-02-26 | nginx | add sample Nginx configuration note
+0985 | 2025-02-26 | tests | add sample testing checklist
