@@ -983,3 +983,4 @@
 0983 | 2025-02-26 | release | add sample release checklist
 0984 | 2025-02-26 | nginx | add sample Nginx configuration note
 0985 | 2025-02-26 | tests | add sample testing checklist
+0986 | 2025-02-27 | docker | add sample Docker deployment note
