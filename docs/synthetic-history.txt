@@ -987,3 +987,4 @@
 0987 | 2025-03-01 | ci | add sample CI pipeline note
 0988 | 2025-03-01 | refactor | update sample maintenance note
 0989 | 2025-03-03 | ci | add sample CI pipeline note
+0990 | 2025-03-04 | security | add sample security checklist
