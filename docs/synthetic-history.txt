@@ -993,3 +993,4 @@
 0993 | 2025-03-05 | refactor | update sample maintenance note
 0994 | 2025-03-05 | tests | add sample testing checklist
 0995 | 2025-03-06 | refactor | update sample maintenance note
+0996 | 2025-03-06 | django | add sample Django configuration note
