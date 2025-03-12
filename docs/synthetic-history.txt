@@ -1002,3 +1002,4 @@
 1002 | 2025-03-10 | database | add sample database optimization note
 1003 | 2025-03-10 | ci | add sample CI pipeline note
 1004 | 2025-03-10 | nginx | add sample Nginx configuration note
+1005 | 2025-03-12 | nginx | add sample Nginx configuration note
