@@ -1007,3 +1007,4 @@
 1007 | 2025-03-13 | ci | add sample CI pipeline note
 1008 | 2025-03-14 | api | add sample API design note
 1009 | 2025-03-15 | nginx | add sample Nginx configuration note
+1010 | 2025-03-16 | tests | add sample testing checklist
