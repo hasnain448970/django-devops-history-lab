@@ -1010,3 +1010,4 @@
 1010 | 2025-03-16 | tests | add sample testing checklist
 1011 | 2025-03-16 | database | add sample database optimization note
 1012 | 2025-03-16 | security | add sample security checklist
+1013 | 2025-03-16 | nginx | add sample Nginx configuration note
