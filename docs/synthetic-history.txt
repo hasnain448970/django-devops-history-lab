@@ -1013,3 +1013,4 @@
 1013 | 2025-03-16 | nginx | add sample Nginx configuration note
 1014 | 2025-03-18 | django | add sample Django configuration note
 1015 | 2025-03-18 | database | add sample database optimization note
+1016 | 2025-03-20 | release | add sample release checklist
