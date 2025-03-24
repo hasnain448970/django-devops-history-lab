@@ -1017,3 +1017,4 @@
 1017 | 2025-03-20 | django | add sample Django configuration note
 1018 | 2025-03-22 | release | add sample release checklist
 1019 | 2025-03-23 | release | add sample release checklist
+1020 | 2025-03-24 | django | add sample Django configuration note
