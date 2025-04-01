@@ -1029,3 +1029,4 @@
 1029 | 2025-03-30 | security | add sample security checklist
 1030 | 2025-03-31 | docker | add sample Docker deployment note
 1031 | 2025-04-01 | ci | add sample CI pipeline note
+1032 | 2025-04-01 | nginx | add sample Nginx configuration note
