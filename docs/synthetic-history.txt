@@ -1032,3 +1032,4 @@
 1032 | 2025-04-01 | nginx | add sample Nginx configuration note
 1033 | 2025-04-01 | docker | add sample Docker deployment note
 1034 | 2025-04-03 | django | add sample Django configuration note
+1035 | 2025-04-03 | api | add sample API design note
