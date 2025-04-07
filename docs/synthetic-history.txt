@@ -1040,3 +1040,4 @@
 1040 | 2025-04-04 | api | add sample API design note
 1041 | 2025-04-04 | nginx | add sample Nginx configuration note
 1042 | 2025-04-05 | security | add sample security checklist
+1043 | 2025-04-07 | nginx | add sample Nginx configuration note
