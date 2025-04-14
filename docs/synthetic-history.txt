@@ -1051,3 +1051,4 @@
 1051 | 2025-04-14 | release | add sample release checklist
 1052 | 2025-04-14 | ci | add sample CI pipeline note
 1053 | 2025-04-14 | tests | add sample testing checklist
+1054 | 2025-04-14 | nginx | add sample Nginx configuration note
