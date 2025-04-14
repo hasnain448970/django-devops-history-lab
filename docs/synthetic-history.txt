@@ -1052,3 +1052,4 @@
 1052 | 2025-04-14 | ci | add sample CI pipeline note
 1053 | 2025-04-14 | tests | add sample testing checklist
 1054 | 2025-04-14 | nginx | add sample Nginx configuration note
+1055 | 2025-04-14 | docker | add sample Docker deployment note
