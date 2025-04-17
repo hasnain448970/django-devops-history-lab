@@ -1054,3 +1054,4 @@
 1054 | 2025-04-14 | nginx | add sample Nginx configuration note
 1055 | 2025-04-14 | docker | add sample Docker deployment note
 1056 | 2025-04-15 | release | add sample release checklist
+1057 | 2025-04-17 | docker | add sample Docker deployment note
