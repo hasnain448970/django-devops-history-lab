@@ -1058,3 +1058,4 @@
 1058 | 2025-04-20 | api | add sample API design note
 1059 | 2025-04-20 | security | add sample security checklist
 1060 | 2025-04-21 | database | add sample database optimization note
+1061 | 2025-04-22 | tests | add sample testing checklist
