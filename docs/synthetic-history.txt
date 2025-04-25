@@ -1063,3 +1063,4 @@
 1063 | 2025-04-24 | ci | add sample CI pipeline note
 1064 | 2025-04-25 | django | add sample Django configuration note
 1065 | 2025-04-25 | django | add sample Django configuration note
+1066 | 2025-04-25 | tests | add sample testing checklist
