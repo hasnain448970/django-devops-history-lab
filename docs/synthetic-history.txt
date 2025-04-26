@@ -1064,3 +1064,4 @@
 1064 | 2025-04-25 | django | add sample Django configuration note
 1065 | 2025-04-25 | django | add sample Django configuration note
 1066 | 2025-04-25 | tests | add sample testing checklist
+1067 | 2025-04-26 | docker | add sample Docker deployment note
