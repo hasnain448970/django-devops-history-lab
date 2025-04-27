@@ -1066,3 +1066,4 @@
 1066 | 2025-04-25 | tests | add sample testing checklist
 1067 | 2025-04-26 | docker | add sample Docker deployment note
 1068 | 2025-04-27 | api | add sample API design note
+1069 | 2025-04-27 | ci | add sample CI pipeline note
