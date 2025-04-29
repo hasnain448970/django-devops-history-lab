@@ -1068,3 +1068,4 @@
 1068 | 2025-04-27 | api | add sample API design note
 1069 | 2025-04-27 | ci | add sample CI pipeline note
 1070 | 2025-04-28 | nginx | add sample Nginx configuration note
+1071 | 2025-04-29 | tests | add sample testing checklist
