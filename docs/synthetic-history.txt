@@ -1075,3 +1075,4 @@
 1075 | 2025-05-03 | ci | add sample CI pipeline note
 1076 | 2025-05-03 | api | add sample API design note
 1077 | 2025-05-03 | ci | add sample CI pipeline note
+1078 | 2025-05-04 | tests | add sample testing checklist
