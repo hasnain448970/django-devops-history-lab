@@ -1080,3 +1080,4 @@
 1080 | 2025-05-06 | docker | add sample Docker deployment note
 1081 | 2025-05-06 | nginx | add sample Nginx configuration note
 1082 | 2025-05-08 | api | add sample API design note
+1083 | 2025-05-08 | tests | add sample testing checklist
