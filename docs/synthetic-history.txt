@@ -1097,3 +1097,4 @@
 1097 | 2025-05-19 | ci | add sample CI pipeline note
 1098 | 2025-05-19 | ci | add sample CI pipeline note
 1099 | 2025-05-20 | nginx | add sample Nginx configuration note
+1100 | 2025-05-21 | nginx | add sample Nginx configuration note
