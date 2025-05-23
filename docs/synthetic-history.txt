@@ -1099,3 +1099,4 @@
 1099 | 2025-05-20 | nginx | add sample Nginx configuration note
 1100 | 2025-05-21 | nginx | add sample Nginx configuration note
 1101 | 2025-05-22 | docker | add sample Docker deployment note
+1102 | 2025-05-23 | security | add sample security checklist
