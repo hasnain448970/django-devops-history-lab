@@ -1124,3 +1124,4 @@
 1124 | 2025-06-10 | ci | add sample CI pipeline note
 1125 | 2025-06-10 | nginx | add sample Nginx configuration note
 1126 | 2025-06-11 | security | add sample security checklist
+1127 | 2025-06-11 | tests | add sample testing checklist
